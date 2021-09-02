@@ -1,0 +1,5 @@
+#A Linux Ubunu20.04 was used in making this project
+#To run this project install all the libraries requirement using Python Installer Package (pip)
+
+sudo apt install python3-pip
+pip3 install -r requirements.txt

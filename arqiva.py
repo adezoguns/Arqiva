@@ -290,6 +290,7 @@ def etc_feature_ranking(path_to_csv2):
     plt.grid()
     #plt.ylim((0.0,0.4))
     plt.xlabel('Features')
+    #ff
     plt.ylabel('Ranking')
     plt.title("The extra tree classifier ranking for features according to importance")
     #plt.tight_layout(pad=0.9, w_pad=0.5, h_pad=1.0)
